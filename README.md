@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Meu nome é Kaue, <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Meu nome é Kaue <br>- 💻Em busca de oportunidade na area de dados 📚 Estou estudando banco de dados <br>- ⚡ No tempo livre eu crio dashboards.</p>
 
 ###
 
